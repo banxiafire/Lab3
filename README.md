@@ -74,7 +74,7 @@ Note: these won't do much yet, but we want to know things are working.
 
 If either of these aren't able to run, ask for help from those around you or your TA.
 
-Note: sometimes you may need to right-click the `pom.xml` file and select `Maven -> Reload project' 
+Note: sometimes you may need to right-click the `pom.xml` file and select `Maven -> Reload project'.
 
 ## Part 2: CheckStyle
 Before we get to writing any new code, we're going to take the time to tidy up
@@ -200,10 +200,10 @@ You will need to use the JSON data to obtain the country name given the country 
 
 ### The rest of the TODOs!
 You now have the basics working, so it is just a matter of writing the real code in:
-- `Main.java`
+- `Main.java` 
 - `CountryCodeConverter.java`
-- `LanguageCodeConverter.java`
-- `JSONTranslator.java`
+- `LanguageCodeConverter.java` 
+- `JSONTranslator.java` Done
 
 If you have time left in lab, your group can discuss the remaining TODOs to decide who
 wants to work on each part. You don't have to complete it all, but we encourage you
